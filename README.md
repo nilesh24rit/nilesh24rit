@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Backend+Systems;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Data+Structures+%26+Algorithms;Building+Backend+Applications;Always+Learning+%7C+Always+Building" />
 
 <br><br>
 
@@ -23,12 +23,12 @@
 ## 👨‍💻 About Me
 
 - ☕ Java Backend Developer
-- 🚀 Building backend applications with Spring Boot
+- 🌱 Building backend applications with Spring Boot
 - 🧠 Practicing Data Structures & Algorithms
 - 🗄️ Working with MongoDB & Redis
-- 🐳 Exploring Docker & backend infrastructure
-- 🏗️ Interested in scalable and maintainable systems
+- 🔧 Using Git and GitHub for version control
 - 📚 Constantly learning and improving
+- 🚀 Building real-world projects to strengthen my backend skills
 
 I enjoy turning ideas into working software and building backend systems that are clean, reliable, and easy to maintain.
 
@@ -38,21 +38,27 @@ I enjoy turning ideas into working software and building backend systems that ar
 
 <div align="center">
 
-### 💻 Languages
+### ☕ Language
 
-<img src="https://skillicons.dev/icons?i=java,javascript" />
+<img src="https://skillicons.dev/icons?i=java" />
 
-### ⚙️ Backend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+### 🌱 Backend
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<br><br>
 
 ### 🗄️ Database & Caching
 
 <img src="https://skillicons.dev/icons?i=mongodb,redis" />
 
-### 🧰 Tools & DevOps
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,postman" />
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
 
 </div>
 
@@ -62,7 +68,7 @@ I enjoy turning ideas into working software and building backend systems that ar
 
 ### 📔 JournalingApp
 
-A Spring Boot based journaling application.
+A backend journaling application built using Spring Boot.
 
 **Features:**
 
@@ -76,7 +82,9 @@ A Spring Boot based journaling application.
 
 **Tech:** `Java` `Spring Boot` `MongoDB` `Redis`
 
-[🔗 View Repository](https://github.com/nilesh24rit/JournalApp)
+<a href="https://github.com/nilesh24rit/JournalApp">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -93,9 +101,11 @@ A modular Java toolkit implementing classical Data Structures and Algorithms.
 - 🕸️ Graph Algorithms
 - 📚 Data Structures
 
-**Tech:** `Java` `Algorithms` `Data Structures`
+**Tech:** `Java` `Data Structures` `Algorithms`
 
-[🔗 View Repository](https://github.com/nilesh24rit/dsa-toolkit-java)
+<a href="https://github.com/nilesh24rit/dsa-toolkit-java">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -103,9 +113,11 @@ A modular Java toolkit implementing classical Data Structures and Algorithms.
 
 An AI-focused project exploring intelligent content processing and analysis.
 
-**Tech:** `JavaScript` `AI`
+**Tech:** `JavaScript`
 
-[🔗 View Repository](https://github.com/nilesh24rit/deep-proof-ai)
+<a href="https://github.com/nilesh24rit/deep-proof-ai">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -115,7 +127,7 @@ I'm continuously strengthening my problem-solving skills through implementation 
 
 ### Data Structures
 
-```text
+<pre>
 Arrays
 Linked Lists
 Stacks & Queues
@@ -124,3 +136,128 @@ Binary Search Trees
 AVL Trees
 Heaps
 Graphs
+</pre>
+
+### Algorithms
+
+<pre>
+Binary Search
+Merge Sort
+Quick Sort
+BFS
+DFS
+Topological Sort
+Dijkstra
+Bellman-Ford
+Floyd-Warshall
+Prim's Algorithm
+Kruskal's Algorithm
+</pre>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nilesh24rit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh24rit&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=nilesh24rit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| ☕ Java | Backend Development |
+| 🌱 Spring Boot | REST APIs & Application Development |
+| 🧠 DSA | Problem Solving & Algorithms |
+| 🗄️ MongoDB | Database & Data Persistence |
+| 🔴 Redis | Caching |
+| 🔧 Git | Version Control |
+| 🏗️ Backend | Clean & Maintainable Applications |
+
+</div>
+
+---
+
+## 📈 My Development Journey
+
+<div align="center">
+
+<pre>
+Java
+  ↓
+Data Structures & Algorithms
+  ↓
+Spring Framework
+  ↓
+Spring Boot
+  ↓
+MongoDB + Redis
+  ↓
+REST APIs
+  ↓
+Backend Applications
+  ↓
+Scalable Backend Systems 🚀
+</pre>
+
+</div>
+
+---
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+### "Build. Break. Learn. Improve. Repeat."
+
+<br>
+
+I believe the best way to learn software engineering
+is to build real projects, solve difficult problems,
+and continuously improve the way I write code.
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+📧 <b>Email:</b> <a href="mailto:nilesh.rit.24@gmail.com">nilesh.rit.24@gmail.com</a>
+
+<br><br>
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%"/>
+
+</div>
