@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/nilesh24rit">
-<img src="https://img.shields.io/badge/GitHub-nilesh24rit-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-nilesh24rit-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:nilesh.rit.24@gmail.com">
@@ -70,7 +70,7 @@ I enjoy turning ideas into working software and building backend systems that ar
 
 A backend journaling application built using Spring Boot.
 
-**Features:**
+**Features**
 
 - 🔐 User management
 - 📔 Journal entries
@@ -92,7 +92,7 @@ A backend journaling application built using Spring Boot.
 
 A modular Java toolkit implementing classical Data Structures and Algorithms.
 
-**Includes:**
+**Includes**
 
 - 🔍 Searching
 - 🔀 Sorting
@@ -113,8 +113,6 @@ A modular Java toolkit implementing classical Data Structures and Algorithms.
 
 An AI-focused project exploring intelligent content processing and analysis.
 
-**Tech:** `JavaScript`
-
 <a href="https://github.com/nilesh24rit/deep-proof-ai">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -127,32 +125,28 @@ I'm continuously strengthening my problem-solving skills through implementation 
 
 ### Data Structures
 
-<pre>
-Arrays
-Linked Lists
-Stacks & Queues
-Hash Tables
-Binary Search Trees
-AVL Trees
-Heaps
-Graphs
-</pre>
+- Arrays
+- Linked Lists
+- Stacks & Queues
+- Hash Tables
+- Binary Search Trees
+- AVL Trees
+- Heaps
+- Graphs
 
 ### Algorithms
 
-<pre>
-Binary Search
-Merge Sort
-Quick Sort
-BFS
-DFS
-Topological Sort
-Dijkstra
-Bellman-Ford
-Floyd-Warshall
-Prim's Algorithm
-Kruskal's Algorithm
-</pre>
+- Binary Search
+- Merge Sort
+- Quick Sort
+- BFS
+- DFS
+- Topological Sort
+- Dijkstra
+- Bellman-Ford
+- Floyd-Warshall
+- Prim's Algorithm
+- Kruskal's Algorithm
 
 ---
 
@@ -176,7 +170,7 @@ Kruskal's Algorithm
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -191,9 +185,9 @@ Kruskal's Algorithm
 | ☕ Java | Backend Development |
 | 🌱 Spring Boot | REST APIs & Application Development |
 | 🧠 DSA | Problem Solving & Algorithms |
-| 🗄️ MongoDB | Database & Data Persistence |
+| 🗄️ MongoDB | Database & Persistence |
 | 🔴 Redis | Caching |
-| 🔧 Git | Version Control |
+| 🔧 Git & GitHub | Version Control |
 | 🏗️ Backend | Clean & Maintainable Applications |
 
 </div>
@@ -204,23 +198,21 @@ Kruskal's Algorithm
 
 <div align="center">
 
-<pre>
-Java
-  ↓
-Data Structures & Algorithms
-  ↓
-Spring Framework
-  ↓
-Spring Boot
-  ↓
-MongoDB + Redis
-  ↓
-REST APIs
-  ↓
-Backend Applications
-  ↓
+Java  
+↓  
+Data Structures & Algorithms  
+↓  
+Spring Framework  
+↓  
+Spring Boot  
+↓  
+MongoDB + Redis  
+↓  
+REST APIs  
+↓  
+Backend Applications  
+↓  
 Scalable Backend Systems 🚀
-</pre>
 
 </div>
 
@@ -232,11 +224,7 @@ Scalable Backend Systems 🚀
 
 ### "Build. Break. Learn. Improve. Repeat."
 
-<br>
-
-I believe the best way to learn software engineering
-is to build real projects, solve difficult problems,
-and continuously improve the way I write code.
+I believe the best way to learn software engineering is to build real projects, solve difficult problems, and continuously improve the way I write code.
 
 </div>
 
@@ -258,6 +246,6 @@ and continuously improve the way I write code.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" />
 
 </div>
