@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Nilesh%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Development&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Nilesh%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Development&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
@@ -15,6 +15,10 @@
 <a href="mailto:nilesh.rit.24@gmail.com">
 <img src="https://img.shields.io/badge/Email-nilesh.rit.24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nilesh24rit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -32,7 +36,7 @@
 
 I enjoy turning ideas into working software and building backend systems that are clean, reliable, and easy to maintain.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0f172a&height=2&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -162,6 +166,10 @@ I'm continuously strengthening my problem-solving skills through implementation 
 
 <img src="https://streak-stats.demolab.com?user=nilesh24rit&theme=tokyonight&hide_border=true" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilesh24rit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
@@ -170,9 +178,21 @@ I'm continuously strengthening my problem-solving skills through implementation 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<!-- Animated snake eating your contribution graph — auto light/dark switch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<!-- Rotating 3D contribution graph (animated GIF) -->
+<img src="https://raw.githubusercontent.com/nilesh24rit/nilesh24rit/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph" />
 
 </div>
+
+> ⚙️ **Setup note:** in-mail dono animations GitHub Action se generate hote hai (`output` branch me). Neeche `.github/workflows/` me dono workflow files daal, "GitHub Actions read & write permission" repo settings me `Settings → Actions → General → Workflow permissions` se ON kar, aur `Actions` tab se run kar de — pehli baar manually trigger karna padega.
 
 ---
 
