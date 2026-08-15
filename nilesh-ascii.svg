@@ -1,0 +1,426 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="636" viewBox="0 0 700 636" font-family="monospace" font-size="12">
+<clipPath id="wipe0">
+  <rect x="0" y="0" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.000s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe0)">
+  <text x="0" y="12" fill="#8b949e" xml:space="preserve">                                                                                                    </text>
+</g>
+<clipPath id="wipe1">
+  <rect x="0" y="12" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.045s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe1)">
+  <text x="0" y="24" fill="#8b949e" xml:space="preserve">                                                                                                    </text>
+</g>
+<clipPath id="wipe2">
+  <rect x="0" y="24" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.090s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe2)">
+  <text x="0" y="36" fill="#8b949e" xml:space="preserve">                                                                                                    </text>
+</g>
+<clipPath id="wipe3">
+  <rect x="0" y="36" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.135s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe3)">
+  <text x="0" y="48" fill="#8b949e" xml:space="preserve">                                                                                                    </text>
+</g>
+<clipPath id="wipe4">
+  <rect x="0" y="48" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.180s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe4)">
+  <text x="0" y="60" fill="#8b949e" xml:space="preserve">                                                                                                    </text>
+</g>
+<clipPath id="wipe5">
+  <rect x="0" y="60" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.225s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe5)">
+  <text x="0" y="72" fill="#8b949e" xml:space="preserve">                                                             ...                                    </text>
+</g>
+<clipPath id="wipe6">
+  <rect x="0" y="72" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.270s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe6)">
+  <text x="0" y="84" fill="#8b949e" xml:space="preserve">                                            .``:--====--::-+*****=:.                                </text>
+</g>
+<clipPath id="wipe7">
+  <rect x="0" y="84" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.315s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe7)">
+  <text x="0" y="96" fill="#8b949e" xml:space="preserve">                                        .:-===++*****cccc*cccccssssc=`                              </text>
+</g>
+<clipPath id="wipe8">
+  <rect x="0" y="96" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.360s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe8)">
+  <text x="0" y="108" fill="#8b949e" xml:space="preserve">                                      .`-=+********ccccccccccccs#####c:                             </text>
+</g>
+<clipPath id="wipe9">
+  <rect x="0" y="108" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.405s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe9)">
+  <text x="0" y="120" fill="#8b949e" xml:space="preserve">                                     .:===*cc**cccccsssssssss*****ccs*:`                            </text>
+</g>
+<clipPath id="wipe10">
+  <rect x="0" y="120" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.450s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe10)">
+  <text x="0" y="132" fill="#8b949e" xml:space="preserve">                                    `:=+**c***cccssssssss##s+==-----::``                            </text>
+</g>
+<clipPath id="wipe11">
+  <rect x="0" y="132" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.495s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe11)">
+  <text x="0" y="144" fill="#8b949e" xml:space="preserve">                                  .`:-+*****ccss########sc+-------::````.                           </text>
+</g>
+<clipPath id="wipe12">
+  <rect x="0" y="144" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.540s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe12)">
+  <text x="0" y="156" fill="#8b949e" xml:space="preserve">                                 .:`-+***cssss#########s*=-::::----:::```.                          </text>
+</g>
+<clipPath id="wipe13">
+  <rect x="0" y="156" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.585s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe13)">
+  <text x="0" y="168" fill="#8b949e" xml:space="preserve">                                 :::=***cssss##########sc*+=--:::--::`````.                         </text>
+</g>
+<clipPath id="wipe14">
+  <rect x="0" y="168" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.630s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe14)">
+  <text x="0" y="180" fill="#8b949e" xml:space="preserve">                               .`-=::=sscssss#########ss*=-----:--=+++==--=:...                     </text>
+</g>
+<clipPath id="wipe15">
+  <rect x="0" y="180" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.675s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe15)">
+  <text x="0" y="192" fill="#8b949e" xml:space="preserve">                               --==-:*ssssss#########ssc=::::-=*cccc*+*+=**: .``                    </text>
+</g>
+<clipPath id="wipe16">
+  <rect x="0" y="192" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.720s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe16)">
+  <text x="0" y="204" fill="#8b949e" xml:space="preserve">                              `==+++*s#ssssss#s##sssccc*=--==+*csssc=*=--++:````                    </text>
+</g>
+<clipPath id="wipe17">
+  <rect x="0" y="204" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.765s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe17)">
+  <text x="0" y="216" fill="#8b949e" xml:space="preserve">                              ``:::-=-c####s+======+**c+=------=++++-=:*csc+-```                    </text>
+</g>
+<clipPath id="wipe18">
+  <rect x="0" y="216" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.810s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe18)">
+  <text x="0" y="228" fill="#8b949e" xml:space="preserve">                                  :===cs###+--:-+-::=**+-:````````.-=`:+c**c*:`:                    </text>
+</g>
+<clipPath id="wipe19">
+  <rect x="0" y="228" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.855s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe19)">
+  <text x="0" y="240" fill="#8b949e" xml:space="preserve">                                 .-+++c###c*-=::=*+`:=+=-:::::::````-::-*+**`                       </text>
+</g>
+<clipPath id="wipe20">
+  <rect x="0" y="240" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.900s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe20)">
+  <text x="0" y="252" fill="#8b949e" xml:space="preserve">                                  --++*#####*=-::-=+--*+=----:::```. ..:+cs*=.                      </text>
+</g>
+<clipPath id="wipe21">
+  <rect x="0" y="252" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.945s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe21)">
+  <text x="0" y="264" fill="#8b949e" xml:space="preserve">                                   `-+*s####s*=-:`.`-=***+=-----:::`..:csc*+-                       </text>
+</g>
+<clipPath id="wipe22">
+  <rect x="0" y="264" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="0.990s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe22)">
+  <text x="0" y="276" fill="#8b949e" xml:space="preserve">                                     :=*c##%#c+++=-=*+cccc*+===+===--:-==**+`                       </text>
+</g>
+<clipPath id="wipe23">
+  <rect x="0" y="276" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.035s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe23)">
+  <text x="0" y="288" fill="#8b949e" xml:space="preserve">                                      `-=c###c+====++cssssscc***++*+=------:                        </text>
+</g>
+<clipPath id="wipe24">
+  <rect x="0" y="288" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.080s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe24)">
+  <text x="0" y="300" fill="#8b949e" xml:space="preserve">                                       .`:-++*++=--=+c#######ssc**c*+==--:::                        </text>
+</g>
+<clipPath id="wipe25">
+  <rect x="0" y="300" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.125s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe25)">
+  <text x="0" y="312" fill="#8b949e" xml:space="preserve">                                         ...`=+++=-=+*c##%%%%#######sssssss=                        </text>
+</g>
+<clipPath id="wipe26">
+  <rect x="0" y="312" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.170s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe26)">
+  <text x="0" y="324" fill="#8b949e" xml:space="preserve">                                            .-+*+====+*cs###%%%%%%%%%%%s*=-.                        </text>
+</g>
+<clipPath id="wipe27">
+  <rect x="0" y="324" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.215s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe27)">
+  <text x="0" y="336" fill="#8b949e" xml:space="preserve">                                         `:`:=**++====++*cccsss####c+=:                             </text>
+</g>
+<clipPath id="wipe28">
+  <rect x="0" y="336" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.260s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe28)">
+  <text x="0" y="348" fill="#8b949e" xml:space="preserve">                                     .:``=++++***++====++****c***+:                                 </text>
+</g>
+<clipPath id="wipe29">
+  <rect x="0" y="348" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.305s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe29)">
+  <text x="0" y="360" fill="#8b949e" xml:space="preserve">                                 .-+cssc=::=++++++++=====++++*++-::=-`                              </text>
+</g>
+<clipPath id="wipe30">
+  <rect x="0" y="360" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.350s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe30)">
+  <text x="0" y="372" fill="#8b949e" xml:space="preserve">                             .`-*csssss#sc=::--=+++++==========-::=:cc+-.                           </text>
+</g>
+<clipPath id="wipe31">
+  <rect x="0" y="372" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.395s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe31)">
+  <text x="0" y="384" fill="#8b949e" xml:space="preserve">                          .:=*ccccccsssss##c=``:-============--:::=`=sssc*=`                        </text>
+</g>
+<clipPath id="wipe32">
+  <rect x="0" y="384" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.440s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe32)">
+  <text x="0" y="396" fill="#8b949e" xml:space="preserve">                       .:=*ccc**ccccccsssss##c=:`:--=========--::-=`-scssssc*=:.                    </text>
+</g>
+<clipPath id="wipe33">
+  <rect x="0" y="396" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.485s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe33)">
+  <text x="0" y="408" fill="#8b949e" xml:space="preserve">                     `:=*c*********ccccssssss##s+-``:---------::-+:`=scccccssssc+:.                 </text>
+</g>
+<clipPath id="wipe34">
+  <rect x="0" y="408" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.530s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe34)">
+  <text x="0" y="420" fill="#8b949e" xml:space="preserve">                   `:=*c**++******cccsccccssss####c+:``:::::-::-+:`:c#sssssssssssc*-.               </text>
+</g>
+<clipPath id="wipe35">
+  <rect x="0" y="420" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.575s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe35)">
+  <text x="0" y="432" fill="#8b949e" xml:space="preserve">                 .:=*c*****ccccc*cccccccccccssss#####c=:```:--==:``*sssssssssssssssc*-              </text>
+</g>
+<clipPath id="wipe36">
+  <rect x="0" y="432" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.620s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe36)">
+  <text x="0" y="444" fill="#8b949e" xml:space="preserve">               .`=*c****ccccccccccccccccccccssss#######s*-:-=+-:`:*ssssssssssssssssssc+.            </text>
+</g>
+<clipPath id="wipe37">
+  <rect x="0" y="444" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.665s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe37)">
+  <text x="0" y="456" fill="#8b949e" xml:space="preserve">             .`-*sc****cccccccccccccccccccscssssssss######sssscc*s####ssssssssscsssssc#*            </text>
+</g>
+<clipPath id="wipe38">
+  <rect x="0" y="456" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.710s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe38)">
+  <text x="0" y="468" fill="#8b949e" xml:space="preserve">           `-:-csc***ccccccccccssscccccsssssssssssssssssss#############ssssssssscccc##s%=           </text>
+</g>
+<clipPath id="wipe39">
+  <rect x="0" y="468" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.755s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe39)">
+  <text x="0" y="480" fill="#8b949e" xml:space="preserve">         `+=:-csccccccccccccccccs#sccccsssssssssssssssssssss####ss##ssssss#sssccccccs#s#s.          </text>
+</g>
+<clipPath id="wipe40">
+  <rect x="0" y="480" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.800s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe40)">
+  <text x="0" y="492" fill="#8b949e" xml:space="preserve">        `c+:-ccccccc*cccccc**cccss#c*cccsssssssssssssssssss#####ss#####s##ssssssscccs##s#+.         </text>
+</g>
+<clipPath id="wipe41">
+  <rect x="0" y="492" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.845s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe41)">
+  <text x="0" y="504" fill="#8b949e" xml:space="preserve">        --:=cccccc**ccccccc**cccss#s**cssssssssssssssssssss#s####s########ssssssssccc##s#c=         </text>
+</g>
+<clipPath id="wipe42">
+  <rect x="0" y="504" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.890s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe42)">
+  <text x="0" y="516" fill="#8b949e" xml:space="preserve">       .:-+cccc***ccccccccccccccssssc*csss#ssssssssssssssssssss##ss########ssssssscccs#sss+         </text>
+</g>
+<clipPath id="wipe43">
+  <rect x="0" y="516" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.935s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe43)">
+  <text x="0" y="528" fill="#8b949e" xml:space="preserve">      `+*csccccccccccccccc*cccccsss#c*csssssssssssssssss##ccc*=+##sc-+##*cc###sssss*cs#sss-         </text>
+</g>
+<clipPath id="wipe44">
+  <rect x="0" y="528" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="1.980s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe44)">
+  <text x="0" y="540" fill="#8b949e" xml:space="preserve">     .=*cscccssssssssccccccccscccs##sccssssssssssssss###s#*:=:-:c#ss-*%#-==-###sscc**s#ssc`         </text>
+</g>
+<clipPath id="wipe45">
+  <rect x="0" y="540" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.025s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe45)">
+  <text x="0" y="552" fill="#8b949e" xml:space="preserve">     `=+cssccssssssssscccccccssccs##scccssss####s####s*=-+#s-:``=##s-c@c:*+-##==*cc**c#ssc          </text>
+</g>
+<clipPath id="wipe46">
+  <rect x="0" y="552" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.070s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe46)">
+  <text x="0" y="564" fill="#8b949e" xml:space="preserve">     .-*sssccsssssssssscccccssssss##scccssss#########*-:*cs#s-`-:ss+-c%==+:*%=-c:***+c#s#*.         </text>
+</g>
+<clipPath id="wipe47">
+  <rect x="0" y="564" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.115s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe47)">
+  <text x="0" y="576" fill="#8b949e" xml:space="preserve">      =cssscssssssssssccccsccss##s##ssccsss#######c=*%#*--=scc:+=*#+-s*-**-s#c==*c:+*cs##*`         </text>
+</g>
+<clipPath id="wipe48">
+  <rect x="0" y="576" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.160s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe48)">
+  <text x="0" y="588" fill="#8b949e" xml:space="preserve">     .+sssssssssssssssscccssssss####sssssss#####sc*+-=c#c-=+:=ccscsss%#ss++*-c*:s+:-=*s#sc:         </text>
+</g>
+<clipPath id="wipe49">
+  <rect x="0" y="588" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.205s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe49)">
+  <text x="0" y="600" fill="#8b949e" xml:space="preserve">     :cssssssssssscsssssccccssss####sssssssss##s=--==::-*c`-*ssssssss#%%%%%#c==c+=+**+s#sc=         </text>
+</g>
+<clipPath id="wipe50">
+  <rect x="0" y="600" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.250s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe50)">
+  <text x="0" y="612" fill="#8b949e" xml:space="preserve">     -csssssssssscsccsscsssccss##%#sssssssss##ss#s*=--==:=*##scssssscs#%%#%%%%%*-#%%s*###s+         </text>
+</g>
+<clipPath id="wipe51">
+  <rect x="0" y="612" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.295s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe51)">
+  <text x="0" y="624" fill="#8b949e" xml:space="preserve">     =ssssssssssssssscccsssssss####ssssssss#########c=:=s##%#scsssssss#####%%%%#*#%%#s###sc`        </text>
+</g>
+<clipPath id="wipe52">
+  <rect x="0" y="624" width="0" height="12">
+    <animate attributeName="width" from="0" to="700" begin="2.340s" dur="0.35s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#wipe52)">
+  <text x="0" y="636" fill="#8b949e" xml:space="preserve">     =s#ssssssssssssssscss#ssss####ssssssss###########+s%####ccsssssss##%##%%%%#ss%%#s###ss:        </text>
+</g>
+</svg>
