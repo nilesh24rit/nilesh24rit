@@ -12,6 +12,7 @@ Usage:
 
 import json
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -40,10 +41,19 @@ def fetch(username: str) -> dict:
     days.sort(key=lambda d: d["date"])
 
     total = sum(1 for d in days if d["level"] > 0)
+
+    # "Today" (UTC) may legitimately still show level 0 simply because the
+    # day isn't over yet / GitHub's calendar hasn't refreshed since the
+    # latest commit. That shouldn't zero out an otherwise-live streak, so
+    # skip today's cell (once) if it's the very last entry and has no
+    # contributions yet, then keep counting backwards as normal.
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     current_streak = 0
-    for d in reversed(days):
+    for i, d in enumerate(reversed(days)):
         if d["level"] > 0:
             current_streak += 1
+        elif i == 0 and d["date"] == today_str:
+            continue  # today, not over yet - don't break the streak
         else:
             break
 
