@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279" height="30" viewBox="0 0 279 30" font-family="monospace" font-size="18">
+<clipPath id="typeClip">
+  <rect x="0" y="0" width="0" height="30">
+    <animate attributeName="width" from="0" to="279" begin="0s" dur="1.08s" fill="freeze" />
+  </rect>
+</clipPath>
+<g clip-path="url(#typeClip)">
+  <text x="4" y="21" fill="#c9d1d9" xml:space="preserve">nilesh@github ~ $ whoami</text>
+</g>
+<rect x="263.2" y="4" width="9" height="18" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.474;1;1" dur="2.28s" begin="0s" fill="freeze" />
+  <animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.08s" repeatCount="indefinite" />
+</rect>
+</svg>
