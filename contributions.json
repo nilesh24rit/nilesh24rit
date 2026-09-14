@@ -1431,7 +1431,7 @@
     },
     {
       "date": "2026-09-06",
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-09-07",
@@ -1459,10 +1459,14 @@
     },
     {
       "date": "2026-09-13",
-      "level": 0
+      "level": 1
+    },
+    {
+      "date": "2026-09-14",
+      "level": 1
     }
   ],
-  "total_active_days": 46,
-  "current_streak": 38,
-  "longest_streak": 38
+  "total_active_days": 48,
+  "current_streak": 40,
+  "longest_streak": 40
 }
