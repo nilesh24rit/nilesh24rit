@@ -2,34 +2,6 @@
   "username": "nilesh24rit",
   "days": [
     {
-      "date": "2025-09-21",
-      "level": 0
-    },
-    {
-      "date": "2025-09-22",
-      "level": 0
-    },
-    {
-      "date": "2025-09-23",
-      "level": 0
-    },
-    {
-      "date": "2025-09-24",
-      "level": 0
-    },
-    {
-      "date": "2025-09-25",
-      "level": 0
-    },
-    {
-      "date": "2025-09-26",
-      "level": 0
-    },
-    {
-      "date": "2025-09-27",
-      "level": 0
-    },
-    {
       "date": "2025-09-28",
       "level": 0
     },
@@ -1483,10 +1455,14 @@
     },
     {
       "date": "2026-09-26",
-      "level": 0
+      "level": 4
+    },
+    {
+      "date": "2026-09-27",
+      "level": 3
     }
   ],
-  "total_active_days": 59,
-  "current_streak": 51,
-  "longest_streak": 51
+  "total_active_days": 61,
+  "current_streak": 53,
+  "longest_streak": 53
 }
