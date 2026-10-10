@@ -1479,7 +1479,11 @@
     },
     {
       "date": "2026-10-09",
-      "level": 1
+      "level": 3
+    },
+    {
+      "date": "2026-10-10",
+      "level": 0
     }
   ],
   "total_active_days": 73,
