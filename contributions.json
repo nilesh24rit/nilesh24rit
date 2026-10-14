@@ -1467,10 +1467,14 @@
     },
     {
       "date": "2026-10-13",
+      "level": 2
+    },
+    {
+      "date": "2026-10-14",
       "level": 0
     }
   ],
-  "total_active_days": 76,
-  "current_streak": 68,
-  "longest_streak": 68
+  "total_active_days": 77,
+  "current_streak": 69,
+  "longest_streak": 69
 }
